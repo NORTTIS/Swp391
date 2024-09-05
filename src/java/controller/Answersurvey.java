@@ -41,7 +41,7 @@ public class Answersurvey extends HttpServlet {
      * @throws IOException if an I/O error occurs
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {1
+            throws ServletException, IOException {
 
     }
 
